@@ -28,7 +28,7 @@ A knight can jump higher than normal by slashing to give themselves some extra v
 
 ## Wall gliding
 
-A slash jump can be combined with upwards shield gliding in order to get extra height. Also, by pushing off the wall as you near the top and then floating back onto it you can climb an extra block (up to 9 blocks can be climbed this way).
+A slash jump can be combined with upwards shield gliding in order to get extra height. Also, by pushing off the wall as you near the top and then floating back onto it you can climb an extra block (up to 9 blocks can be climbed this way, using a double slash you can climb up to 10 blocks).
 
 ![](http://i.giphy.com/26xBM6wWHAnNagBMc.gif)
 
